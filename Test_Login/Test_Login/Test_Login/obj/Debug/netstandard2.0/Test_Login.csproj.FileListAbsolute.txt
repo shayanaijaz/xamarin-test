@@ -1,0 +1,13 @@
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\bin\Debug\netstandard2.0\Test_Login.deps.json
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\bin\Debug\netstandard2.0\Test_Login.dll
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\bin\Debug\netstandard2.0\ref\Test_Login.dll
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\bin\Debug\netstandard2.0\Test_Login.pdb
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\obj\Debug\netstandard2.0\Test_Login.csprojAssemblyReference.cache
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\obj\Debug\netstandard2.0\Test_Login.AssemblyInfoInputs.cache
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\obj\Debug\netstandard2.0\Test_Login.AssemblyInfo.cs
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\obj\Debug\netstandard2.0\Test_Login.dll
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\obj\Debug\netstandard2.0\ref\Test_Login.dll
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\obj\Debug\netstandard2.0\Test_Login.pdb
+C:\Users\shaya\source\repos\Test_Login\Test_Login\Test_Login\obj\Debug\netstandard2.0\XamlC.stamp

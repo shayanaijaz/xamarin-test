@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Test_Login.MainPage">
+    <StackLayout Margin="20,35,20,20">
+        <Grid BackgroundColor="Pink">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                
+            </Grid.RowDefinitions>
+
+            <Entry Grid.Row="1" Placeholder="Email"></Entry>
+            <Entry Grid.Row="2" Placeholder="Password"></Entry>
+            <Entry Grid.Row="3" Placeholder="Name"></Entry>
+            <Entry Grid.Row="4" Placeholder="Phone Number"></Entry>
+            <Button Grid.Row="5" Text="Sign Up" WidthRequest="100" />
+        </Grid>
+    </StackLayout>
+</ContentPage>

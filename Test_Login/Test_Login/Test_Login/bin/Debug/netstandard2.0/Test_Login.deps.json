@@ -1,0 +1,177 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Test_Login/1.0.0": {
+        "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.3.101.10",
+          "AWSSDK.RDS": "3.3.114",
+          "NETStandard.Library": "2.0.3",
+          "Xamarin.Essentials": "1.2.0",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "runtime": {
+          "Test_Login.dll": {}
+        }
+      },
+      "AWSSDK.CognitoIdentity/3.3.101.10": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.104",
+          "AWSSDK.SecurityToken": "3.3.104.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.CognitoIdentity.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.10"
+          }
+        }
+      },
+      "AWSSDK.Core/3.3.104": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.0"
+          }
+        }
+      },
+      "AWSSDK.RDS/3.3.114": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.104"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.RDS.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.114.0"
+          }
+        }
+      },
+      "AWSSDK.SecurityToken/3.3.104.4": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.104"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SecurityToken.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.4"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.2.0": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/4.2.0.709249": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.2.0.75"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.2.0.75"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.2.0.75"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test_Login/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.CognitoIdentity/3.3.101.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d/4u0dAAdWSfR08uRgkBUfhNr3JslBamWX+JIZLig02XI+AOZJTvxDHMPfta0NADHCZEXyYgNbdL535Po/jJ5Q==",
+      "path": "awssdk.cognitoidentity/3.3.101.10",
+      "hashPath": "awssdk.cognitoidentity.3.3.101.10.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.3.104": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1ldqyzqh18tKTFuseBX3YetZk/flCE3fRVOBAUFpJJrt0xqHjMBxMwpMLrnrYaDubHj7f9EPU0TlGgMef1YUSA==",
+      "path": "awssdk.core/3.3.104",
+      "hashPath": "awssdk.core.3.3.104.nupkg.sha512"
+    },
+    "AWSSDK.RDS/3.3.114": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hoM/9MQgq7z8yx6Nlrtq+0Sfdl0snWxQvojMRO0zSW6WTBT6FnAjvR22D4I2mpl65d+Ii/xKZk9AL/sLBWUzMA==",
+      "path": "awssdk.rds/3.3.114",
+      "hashPath": "awssdk.rds.3.3.114.nupkg.sha512"
+    },
+    "AWSSDK.SecurityToken/3.3.104.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oIfHIRkARxdrakLA1HOE9+GSaeFv0ceFGMmY/RxJCiNNFnGJk9oIEmf+8cEVBXw6m5xy6NAIOcBUVAY+vRz/VQ==",
+      "path": "awssdk.securitytoken/3.3.104.4",
+      "hashPath": "awssdk.securitytoken.3.3.104.4.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Xamarin.Essentials/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o3i5uAchUpAvAlJX0onYFFiDo6jpKl9vgvrdDtXEuEfum0UDrSx8oGGBUjlFyUoRpvWVumXwo0VS3AbzuwEofg==",
+      "path": "xamarin.essentials/1.2.0",
+      "hashPath": "xamarin.essentials.1.2.0.nupkg.sha512"
+    },
+    "Xamarin.Forms/4.2.0.709249": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3DWqPSn9kSKJW5mwjmICV/+4IpPQrequEN1VXUhsF0i9KKnfj49jFk9VbJnT9o2aesJAk00NED67XPbSmbxKjw==",
+      "path": "xamarin.forms/4.2.0.709249",
+      "hashPath": "xamarin.forms.4.2.0.709249.nupkg.sha512"
+    }
+  }
+}
